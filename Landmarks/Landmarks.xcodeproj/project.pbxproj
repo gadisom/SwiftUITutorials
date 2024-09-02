@@ -14,6 +14,7 @@
 		BD2F532B2C85504100120DDB /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2F532A2C85504100120DDB /* Persistence.swift */; };
 		BD2F532E2C85504100120DDB /* Landmarks.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD2F532C2C85504100120DDB /* Landmarks.xcdatamodeld */; };
 		BD2F53352C8558F200120DDB /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2F53342C8558F200120DDB /* CircleImage.swift */; };
+		BD2F53372C8559C100120DDB /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2F53362C8559C100120DDB /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		BD2F532A2C85504100120DDB /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		BD2F532D2C85504100120DDB /* Landmarks.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Landmarks.xcdatamodel; sourceTree = "<group>"; };
 		BD2F53342C8558F200120DDB /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CircleImage.swift; path = ../../../CircleImage.swift; sourceTree = "<group>"; };
+		BD2F53362C8559C100120DDB /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BD2F53212C85503F00120DDB /* LandmarksApp.swift */,
 				BD2F53232C85503F00120DDB /* ContentView.swift */,
 				BD2F53342C8558F200120DDB /* CircleImage.swift */,
+				BD2F53362C8559C100120DDB /* MapView.swift */,
 				BD2F53252C85504100120DDB /* Assets.xcassets */,
 				BD2F532A2C85504100120DDB /* Persistence.swift */,
 				BD2F532C2C85504100120DDB /* Landmarks.xcdatamodeld */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD2F532B2C85504100120DDB /* Persistence.swift in Sources */,
+				BD2F53372C8559C100120DDB /* MapView.swift in Sources */,
 				BD2F53242C85503F00120DDB /* ContentView.swift in Sources */,
 				BD2F53222C85503F00120DDB /* LandmarksApp.swift in Sources */,
 				BD2F532E2C85504100120DDB /* Landmarks.xcdatamodeld in Sources */,
